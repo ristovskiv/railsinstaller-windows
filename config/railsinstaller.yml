@@ -54,9 +54,9 @@
 
 :git:
   :category: component
-  :title: Git 1.9.4
+  :title: Git 2.21.0
   :name: Git
-  :url: "http://s3.amazonaws.com/railsinstaller/Resources/PortableGit-1.9.4-preview20140929.7z"
+  :url: "https://github.com/git-for-windows/git/releases/download/v2.21.0.windows.1/PortableGit-2.21.0-32-bit.7z.exe"
   :target: "Git"
   :regex: '^.*$'
 
